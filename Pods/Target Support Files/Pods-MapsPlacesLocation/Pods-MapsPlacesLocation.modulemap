@@ -1,0 +1,6 @@
+framework module Pods_MapsPlacesLocation {
+  umbrella header "Pods-MapsPlacesLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}
